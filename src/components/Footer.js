@@ -8,7 +8,7 @@ function Footer() {
       <div className="socialMedia">
         <LinkedInIcon />
       </div>
-      <p> &copy; 2022 adriennecordell </p>
+      <p> &copy; 2023 @adriennecordell on GitHub</p>
     </div>
   );
 }
