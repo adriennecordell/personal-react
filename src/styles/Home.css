@@ -19,7 +19,7 @@
   
   .about h2 {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 80px;
+    font-size: 55px;
     color: #e9d35b;
     height: 50px;
   }
@@ -27,6 +27,8 @@
   .about .prompt {
     width: 40%;
     font-size: 30px;
+    align-items: center;
+    margin-top: 20px;
   }
   .prompt svg {
     font-size: 60px;
