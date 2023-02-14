@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-react/static/css/main.7fb5a88b.css",
+    "main.js": "/personal-react/static/js/main.2effc98f.js",
+    "static/js/496.8297c293.chunk.js": "/personal-react/static/js/496.8297c293.chunk.js",
+    "static/media/celebrityastrology.png": "/personal-react/static/media/celebrityastrology.6982ff2e004c801d1f1b.png",
+    "static/media/musicalchairs.png": "/personal-react/static/media/musicalchairs.f9c3d642bd209e073e57.png",
+    "static/media/readmegen.png": "/personal-react/static/media/readmegen.49b1a83b3d8832dfc1cc.png",
+    "static/media/notetaker.png": "/personal-react/static/media/notetaker.01013855aa139a995719.png",
+    "static/media/codequiz.png": "/personal-react/static/media/codequiz.a17150a7404e4c77d28b.png",
+    "static/media/weatherdash.png": "/personal-react/static/media/weatherdash.24e61603f8f2a9d1ddd9.png",
+    "index.html": "/personal-react/index.html",
+    "main.7fb5a88b.css.map": "/personal-react/static/css/main.7fb5a88b.css.map",
+    "main.2effc98f.js.map": "/personal-react/static/js/main.2effc98f.js.map",
+    "496.8297c293.chunk.js.map": "/personal-react/static/js/496.8297c293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb5a88b.css",
+    "static/js/main.2effc98f.js"
+  ]
+}
